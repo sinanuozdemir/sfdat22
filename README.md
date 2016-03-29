@@ -10,7 +10,7 @@ Course materials for General Assembly's Data Science course in San Francisco, CA
 
 Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
-3/29: Introduction / Expectations / Intro to Data Science / Python Exercises | 3/31: Introduction to Git / Data Science Workflow
+3/29: Introduction / Expectations / Intro to Data Science | 3/31: Introduction to Git / Data Science Workflow
 4/5: Pandas | 4/7: APIs / Web Scraping 101 | | HW 1 Assigned (Th)
 4/12: Intro to Machine Learning / KNN | 4/14: Scikit-learn / Model Evaluation| Question and Data Set (Th) | HW 1 Due (Th)
 4/19: Linear Regression | 4/21: Logistic Regression
@@ -45,4 +45,6 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 
 ####Homework
 * Make sure you have everything installed as specified above in "Installation and Setup" by Thursday
+* Read this awesome intro to Git [here](http://www.dataschool.io/tag/git/)
+* Read this intro to the iPython notebook [here](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
 
