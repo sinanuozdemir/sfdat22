@@ -39,6 +39,7 @@ Tuesday | Thursday | Project Milestone | HW
 Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl)
 
 * Introduction on how to read and write iPython notebooks [tutorial](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/intro_to_ipython_notebooks.ipynb)
+* Python pre-work [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/01_python_exercies.ipynb)
 * Next class we will go over proper use of git and ipython notebooks in more depth
 
 
