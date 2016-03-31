@@ -10,7 +10,7 @@ Course materials for General Assembly's Data Science course in San Francisco, CA
 
 Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
-3/29: Introduction / Expectations / Intro to Data Science | 3/31: Introduction to Git / Data Science Workflow
+3/29: Introduction / Expectations / Intro to Data Science | 3/31: Introduction to Git / Pandas
 4/5: Pandas | 4/7: APIs / Web Scraping 101 | | HW 1 Assigned (Th)
 4/12: Intro to Machine Learning / KNN | 4/14: Scikit-learn / Model Evaluation| Question and Data Set (Th) | HW 1 Due (Th)
 4/19: Linear Regression | 4/21: Logistic Regression
@@ -48,4 +48,28 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 * Make sure you have everything installed as specified above in "Installation and Setup" by Thursday
 * Read this awesome intro to Git [here](http://www.dataschool.io/tag/git/)
 * Read this intro to the iPython notebook [here](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
+
+
+
+--
+
+### Class 2: Introduction to Git / Pandas
+
+* Introduction to [Git](slides/02_git.pdf)
+* Intro to Pandas walkthrough [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/02_pandas.ipynb)
+	* Pandas is an excellent tool for exploratory data analysis
+	* It allows us to easily manipulate, graph, and visualize basic statistics and elements of our data
+	* [Pandas Lab!](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/lab/02_lab_pandas.ipynb)
+
+####Homework
+* Go through the python file and finish any exercise you weren't able to in class
+* Make sure you have all of the repos cloned and ready to go
+	* You should have both "sfdat22" and "sfdat22_work"
+* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) 
+
+#### Resources:
+* In depth Git/Github tutorial series made by a GA_DC  Data Science Instructor [here](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
+	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his ipython notebook!
+
 
