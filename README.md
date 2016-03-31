@@ -59,7 +59,7 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 * Intro to Pandas walkthrough [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/02_pandas.ipynb)
 	* Pandas is an excellent tool for exploratory data analysis
 	* It allows us to easily manipulate, graph, and visualize basic statistics and elements of our data
-	* [Pandas Lab!](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/lab/02_lab_pandas.ipynb)
+	* [Pandas Lab!](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/labs/02_lab_pandas.ipynb)
 
 ####Homework
 * Go through the python file and finish any exercise you weren't able to in class
