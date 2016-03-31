@@ -6,7 +6,15 @@ Course materials for General Assembly's Data Science course in San Francisco, CA
 **Teaching Assistants:**
 [Mars Williams](https://www.linkedin.com/in/marswilliams) / [Imeh Williams](https://www.linkedin.com/in/imehw)
 
-**Office hours:** TBD / All will be held in the student center at GA, 225 Bush Street
+**Office hours:** 
+
+W: 5:30pm - 7:30pm
+
+Sa: 12pm-2pm
+
+Su: 12pm-2pm
+
+All will be held in the student center at GA, 225 Bush Street
 
 Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
@@ -65,7 +73,8 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 * Go through the python file and finish any exercise you weren't able to in class
 * Make sure you have all of the repos cloned and ready to go
 	* You should have both "sfdat22" and "sfdat22_work"
-* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) 
+* Read Greg Reda's [Intro to Pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+* Take a look at Kaggle's [Titanic competition](https://www.kaggle.com/c/titanic)
 
 #### Resources:
 * In depth Git/Github tutorial series made by a GA_DC  Data Science Instructor [here](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
