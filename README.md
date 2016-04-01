@@ -2,11 +2,11 @@
 
 Course materials for General Assembly's Data Science course in San Francisco, CA (3/29/16 - 6/9/16).
 
-**Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534)
+**Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534) 
 **Teaching Assistants:**
 [Mars Williams](https://www.linkedin.com/in/marswilliams) / [Imeh Williams](https://www.linkedin.com/in/imehw)
 
-**Office hours:**
+**Office hours:** 
 
 W: 5:30pm - 7:30pm
 
