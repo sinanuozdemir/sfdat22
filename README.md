@@ -2,11 +2,11 @@
 
 Course materials for General Assembly's Data Science course in San Francisco, CA (3/29/16 - 6/9/16).
 
-**Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534) 
+**Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534)
 **Teaching Assistants:**
 [Mars Williams](https://www.linkedin.com/in/marswilliams) / [Imeh Williams](https://www.linkedin.com/in/imehw)
 
-**Office hours:** 
+**Office hours:**
 
 W: 5:30pm - 7:30pm
 
@@ -38,6 +38,7 @@ Tuesday | Thursday | Project Milestone | HW
 
 ### Resources
 * [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
+* [Learn How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 
 ### Class 1: Introduction / Expectations / Intro to Data Science / Python Exercises
 * Introduction to General Assembly [slides](slides/01_DAT_intro_deck.pdf)
