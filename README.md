@@ -101,4 +101,6 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 * Check out the National UFO Reporting Center [here](http://www.nuforc.org/) it will be one of the topics of the lab on Thursday
 
 #### Resources:
-
+   
+* Examples of [joins in Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining)
+* For more on Pandas plotting, read the [visualization page](http://pandas.pydata.org/pandas-docs/stable/visualization.html) from the official Pandas documentation.
