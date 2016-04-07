@@ -83,4 +83,25 @@ Break -- [**Command Line Tutorial**](http://generalassembly.github.io/prework/cl
 * [Another Intro to Pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb) (Written by Wes McKinney and is adapted from his book)
 	* [Here](https://vimeo.com/59324550) is a video of Wes McKinney going through his ipython notebook!
 
+--
 
+### Class 3: Pandas
+
+* Don't forget to `git pull` in the sfdat22 repo in your command line
+* Intro to Pandas walkthrough [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/02_pandas.ipynb) (same as last Thursdays)
+	* [Pandas Lab 1](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/labs/02_lab_pandas.ipynb) (same as last Thursday)
+* Extended Intro to Pandas walkthrough [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/03_pandas.ipynb) (new)
+	* [Pandas Lab 2](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/labs/03_lab_pandas.ipynb) (new)
+
+####Homework
+* Finish any lab questions that you did not finish in class
+	* Make sure everything is pushed to sfdat22_work if you'd like us to take a look
+* make sure both requests and beautifulsoup are installed
+	* To check, try `import requests` and `import bs4` both work without error while running python!
+* Read this [intro to APIs](https://www.dataquest.io/blog/api-introduction/)
+* Check out the National UFO Reporting Center [here](http://www.nuforc.org/) it will be one of the topics of the lab on Thursday
+
+#### Resources:
+   
+* Examples of [joins in Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining)
+* For more on Pandas plotting, read the [visualization page](http://pandas.pydata.org/pandas-docs/stable/visualization.html) from the official Pandas documentation.
