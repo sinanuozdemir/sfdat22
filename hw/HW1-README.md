@@ -6,7 +6,7 @@ It is designed to be similar to an in-class lab.
 ##Steps to complete the homework
 
 * There is a new HW folder in the [repository](http://github.com/sinanuozdemir/SF_DAT_17/tree/master/hw). 
-Please take the hw1.py file and copy it into your **own** SF\_DAT\_17\_WORK repository.
+Please take the hw1.py file and copy it into your **own** SF\_DAT\_22\_WORK repository.
 	* You may place it in the root or in another subdirectory. Your choice. As long as we can easily find it.
 * Complete the homework by writing in the code where directed. Use the spyder console to check answers along the way.
 	* The questions are very similar to lab questions
