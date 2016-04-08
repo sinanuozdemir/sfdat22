@@ -5,13 +5,14 @@ This homework is designed to assess your familiarity with the pandas data explor
 It is designed to be similar to an in-class lab. 
 ##Steps to complete the homework
 
-* There is a new HW folder in the [repository](http://github.com/sinanuozdemir/SF_DAT_17/tree/master/hw). 
+* There is a new HW folder in the [repository](https://github.com/sinanuozdemir/sfdat22/tree/master/hw/data). 
 Please take the hw1.py file and copy it into your **own** SF\_DAT\_22\_WORK repository.
 	* You may place it in the root or in another subdirectory. Your choice. As long as we can easily find it.
-* Complete the homework by writing in the code where directed. Use the spyder console to check answers along the way.
+* Complete the homework by writing in the code where directed.
 	* The questions are very similar to lab questions
 * Once complete, please remeber to *push* all commits to Guthub (or else the graders can't see it!) 
 	* Refer to the github tutorial for more help in this area
+* Submit your homework link via the [google homework form] (https://docs.google.com/forms/d/1pO-lyciINzJGrdjJvJ8voWcMtLL2ZLR3zEBo4e4_Ohk/viewform).
 
 
 
