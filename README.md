@@ -157,7 +157,7 @@ Web Scraping Resources:
 * Iris pre-work [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/05_iris_prework.ipynb)
 	* Using numpy to investigate the iris dataset further
 	* Understanding how humans learn so that we can teach the machine!
-* Intro to numpy [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/05_numpy.ipynb)
+* Intro to numpy [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/05_numpy_ref.ipynb)
 	* Numerical Python, code adapted from tutorial [here](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
 	* Special attention to the idea of the np.array
 
