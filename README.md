@@ -43,6 +43,7 @@ Tuesday | Thursday | Project Milestone | HW
 
 ### Resources
 * [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
+* [Learn How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 
 ### Class 1: Introduction / Expectations / Intro to Data Science / Python Exercises
 
