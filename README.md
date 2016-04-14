@@ -204,6 +204,7 @@ Web Scraping Resources:
 **Optional:**
 
 * Practice what we learned in class today! Finish up the Glass data lab
+
 **Resources:**
 
 * Here's a great [30-second explanation of overfitting](http://www.quora.com/What-is-an-intuitive-explanation-of-overfitting/answer/Jessica-Su).
