@@ -183,3 +183,31 @@ Web Scraping Resources:
 **Resources:**
 
 * For a more in-depth look at machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
+
+--
+
+
+### Class 6: scikit-learn, Model Evaluation Procedures
+* Introduction to scikit-learn with iris data ([code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/06_sklearn_knn.ipynb))
+* Exploring the scikit-learn documentation: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+* Discuss the [article](http://scott.fortmann-roe.com/docs/BiasVariance.html) on the bias-variance tradeoff
+* Look as some [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/06_bias_variance_tradeoff.ipynb) on the bias variace tradeoff
+	* To run this, I use a module called "seaborn" 
+	* To install to anywhere in your terminal (git bash) and type in `sudo pip install seaborn`
+* Model evaluation procedures ([slides](slides/06_model_evaluation_procedures.pdf), [code](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/06_model_evaluation.ipynb))
+* Glass Identification Lab [here](http://nbviewer.jupyter.org/github/sinanuozdemir/sfdat22/blob/master/labs/06_lab_glass.ipynb)
+
+**Homework:**
+
+* Keep working on your project. Your [data exploration and analysis plan](project.md) is due in three weeks!
+
+**Optional:**
+
+* Practice what we learned in class today! Finish up the Glass data lab
+**Resources:**
+
+* Here's a great [30-second explanation of overfitting](http://www.quora.com/What-is-an-intuitive-explanation-of-overfitting/answer/Jessica-Su).
+* For more on today's topics, these videos from Hastie and Tibshirani are useful: [overfitting and train/test split](https://www.youtube.com/watch?v=_2ij6eaaSl0) (14 minutes), [cross-validation](https://www.youtube.com/watch?v=nZAM5OXrktY) (14 minutes). (Note that they use the terminology "validation set" instead of "test set".)
+    * Alternatively, read section 5.1 (12 pages) of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), which covers the same content as the videos.
+* This video from Caltech's machine learning course presents an [excellent, simple example of the bias-variance tradeoff](http://work.caltech.edu/library/081.html) (15 minutes) that may help you to visualize bias and variance.
+
