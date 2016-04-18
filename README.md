@@ -214,7 +214,7 @@ Web Scraping Resources:
 
 --
 ### Class 7: Linear Regression
-* Linear regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks007_linear_regression.ipynb))
+* Linear regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/07_linear_regression.ipynb))
 	* In depth slides [here](slides/07_linear_regression.pdf)
 
 * LAB -- Yelp dataset [here](labs/07_yelp_reviews.md) with the [Yelp reviews data](data/yelp.csv). It is not required but your next homework will involve this dataset so it would be helpful to take a look now!
