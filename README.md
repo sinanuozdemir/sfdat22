@@ -227,7 +227,7 @@ Web Scraping Resources:
 **Resources:**
 
 * [Correlation does not imply Causation](http://tylervigen.com/spurious-correlations)
-* [P-values can't walsy be trusted](http://fivethirtyeight.com/features/science-isnt-broken/#part2)
+* [P-values can't always be trusted](http://fivethirtyeight.com/features/science-isnt-broken/#part2)
 * Setosa has an excellent [interactive visualization](http://setosa.io/ev/ordinary-least-squares-regression/) of linear regression.
 * To go much more in-depth on linear regression, read Chapter 3 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), from which this lesson was adapted. Alternatively, watch the [related videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) or read my [quick reference guide](http://www.dataschool.io/applying-and-interpreting-linear-regression/) to the key points in that chapter.
 * To learn more about Statsmodels and how to interpret the output, DataRobot has some decent posts on [simple linear regression](http://www.datarobot.com/blog/ordinary-least-squares-in-python/) and [multiple linear regression](http://www.datarobot.com/blog/multiple-regression-using-statsmodels/).
