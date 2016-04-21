@@ -244,7 +244,7 @@ Web Scraping Resources:
 
 ### Class 8: Logistic Regression
 * Logistic regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/08_logistic_regression.ipynb))
-	* BONUS slides [here](slides/08_logistic_regression.pdf) (These dlies go a bit deeper into the math)
+	* BONUS slides [here](slides/08_logistic_regression.pdf) (These slides go a bit deeper into the math)
 * Confusion matrix ([slides](slides/08_confusion_matrix.pdf))
 * LAB -- Exercise with Titanic data [instructions](labs/08_titanic.md)
 
