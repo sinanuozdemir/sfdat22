@@ -5,11 +5,17 @@ This assignment uses data from Kaggle's [Titanic](https://www.kaggle.com/c/titan
 **Tasks:**
 
 1. Read `titanic.csv` into a DataFrame.
-2. Define Pclass and Parch as the features, and Survived as the response.
-3. Split the data into training and testing sets. (Hint: use the train test split modules from sklearn)
-4. Fit a logistic regression model and examine the coefficients to confirm that they make intuitive sense.
-5. Make predictions on the testing set and calculate the accuracy.
-7. Create a confusion matrix and document the model's sensitivity and specificity. (remember you should run metrics on your test classes!)
-8. **Bonus:** Add Age as a feature, and calculate the testing accuracy. There will be a small issue you'll have to deal with. What is it?
+2. What is the null accuracy rate for predicting survival? (recall this means the probability of choosing the largest unique category, either survived or not)
+3. Can you think of some variables that are in the dataset that might contribute to predicting survival of the crash?
+4. Define Pclass and Parch as the features, and Survived as the response.
+5. Split the data into training and testing sets. (Hint: use the train test split modules from sklearn)
+6. Fit a logistic regression model and examine the coefficients to confirm that they make intuitive sense.
+7. Make predictions on the testing set and calculate the accuracy.
+8. Create a confusion matrix and document the model's sensitivity and specificity. (remember you should run metrics on your test classes!)
+9. Also include Age as a feature, and calculate the testing accuracy. There will be a small issue you'll have to deal with. What is it? How will you deal with it?
+10. Try to make up a new column (be creative!) that you think might be helpful. For example one student make a column called "is_married" which was a combination of SibSp and the name column and include this new column.
+11. In any of your models, were you able to beat the null accuracy rate?
+
+
 
 Always remember to fit your model on the training data and run metrics on the test set.
