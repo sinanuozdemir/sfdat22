@@ -261,3 +261,17 @@ Web Scraping Resources:
 * [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html) is a very nice comparison of four classifiers we cover in the course (logistic regression, decision trees, KNN, Naive Bayes) and one classifier we do not cover (Support Vector Machines).
 * This [simple guide to confusion matrix terminology](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) may be useful to you as a reference.
 
+--
+
+### Class 9: Time Series Data
+* Logistic regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/09_time_series.ipynb))
+	* slides [here](slides/09_time_series.pdf)
+* LAB -- Exercise with Titanic data [instructions](labs/09_lab_time_series.ipynb)
+
+
+**Resources:**
+
+* Some more practice with time series [here](http://earthpy.org/pandas-basics.html)
+	* And [here](http://chrisalbon.com/python/pandas_time_series_basics.html)
+* More practice with [Autocorrelation](http://pandasplotting.blogspot.com/2012/06/autocorrelation-plot.html)
+* Extensive blog on time series and [ARIMA](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
