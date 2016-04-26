@@ -264,9 +264,9 @@ Web Scraping Resources:
 --
 
 ### Class 9: Time Series Data
-* Logistic regression ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/09_time_series.ipynb))
+* Time Series ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/09_time_series.ipynb))
 	* slides [here](slides/09_time_series.pdf)
-* LAB -- Exercise with Titanic data [instructions](labs/09_lab_time_series.ipynb)
+* LAB -- Walmart Sales Forecasting [instructions](labs/09_lab_time_series.ipynb)
 
 
 **Resources:**
