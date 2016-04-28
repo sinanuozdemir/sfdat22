@@ -275,3 +275,12 @@ Web Scraping Resources:
 	* And [here](http://chrisalbon.com/python/pandas_time_series_basics.html)
 * More practice with [Autocorrelation](http://pandasplotting.blogspot.com/2012/06/autocorrelation-plot.html)
 * Extensive blog on time series and [ARIMA](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+
+
+--
+
+### Class 10: Review (crime doesn't pay)
+* Review on the board
+* Review part deux ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/10_review.ipynb))
+* LAB -- Kaggle competition [instructions](https://www.kaggle.com/c/sf-crime)
+
