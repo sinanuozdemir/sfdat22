@@ -27,11 +27,11 @@ Tuesday | Thursday | Project Milestone | HW
 4/5: Pandas | 4/7: APIs / Web Scraping 101 | | HW 1 Assigned (Th)
 4/12: Intro to Machine Learning / KNN | 4/14: Scikit-learn / Model Evaluation| Question and Data Set (Th) | HW 1 Due (Th)
 4/19: Linear Regression | 4/21: Logistic Regression
-4/26: Time Series Data | 4/28: Working on a Data Problem || HW 2 Assigned (Th)
-5/3: Clustering | 5/5: Natural Language Processing|| HW 2 Due (Th)
-5/10: Naive Bayes | 5/12: Decision Trees | One Pager Due (Th)
-5/17: Ensembling Techniques  | 5/19: Dimension Reduction<br>| Peer Review Due (Th) | HW 3 Assigned (Th)
-5/24 Support Vector Machines | 5/26: Web Development with Flask || HW 3 Due (Th)
+4/26: Time Series Data | 4/28: Review (SF Crime Data Lab) || 
+5/3: Clustering | 5/5: Natural Language Processing|| HW 2 Assigned (Th)
+5/10: Naive Bayes | 5/12: Decision Trees | |HW 2 Due (Th)
+5/17: Ensembling Techniques  | 5/19: Dimension Reduction<br>| One Pager Due (Th) | 
+5/24 Support Vector Machines | 5/26: Web Development with Flask | Peer Review Due (Th) | 
 5/31/16: Recommendation Engines | 6/2: Neural Networks
 6/7: Projects | 6/9: Projects | Git Er Done | Git Er Done
 
@@ -284,3 +284,35 @@ Web Scraping Resources:
 * Review part deux ([notebook](http://nbviewer.ipython.org/github/sinanuozdemir/sfdat22/blob/master/notebooks/10_review.ipynb))
 * LAB -- Kaggle competition [instructions](https://www.kaggle.com/c/sf-crime)
 
+### Class 11: Clustering
+* Clustering ([slides](slides/11_clustering.pdf), [notebook](notebooks/11_clustering.ipynb))
+    * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [visualization 1](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/), [visualization 2](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+    * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+
+**Homework:**
+
+* **Homework 2 is due in one week!**
+* **Project Milestone 2 is due in two weeks!**
+* Download all of the NLTK collections.
+   * In Python, use the following commands to bring up the download menu.
+   * ```import nltk```
+   * ```nltk.download()```
+   * Choose "all".
+   * Alternatively, just type ```nltk.download('all')```
+* Install two new packages:  ```textblob``` and ```lda```.
+   * Open a terminal or command prompt.
+   * Type ```pip install textblob``` and ```pip install lda```.
+   * 
+
+
+
+**Resources:**
+
+* For a very thorough introduction to clustering, read chapter 8 (69 pages) of [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) (available as a free download), or browse through the chapter 8 slides.
+* scikit-learn's user guide compares many different [types of clustering](http://scikit-learn.org/stable/modules/clustering.html).
+* This [PowerPoint presentation](http://www2.research.att.com/~volinsky/DataMining/Columbia2011/Slides/Topic6-Clustering.ppt) from Columbia's Data Mining class provides a good introduction to clustering, including hierarchical clustering and alternative distance metrics.
+* An Introduction to Statistical Learning has useful videos on [K-means clustering](https://www.youtube.com/watch?v=aIybuNt9ps4&list=PL5-da3qGB5IBC-MneTc9oBZz0C6kNJ-f2) (17 minutes) and [hierarchical clustering](https://www.youtube.com/watch?v=Tuuc9Y06tAc&list=PL5-da3qGB5IBC-MneTc9oBZz0C6kNJ-f2) (15 minutes).
+* This is an excellent interactive visualization of [hierarchical clustering](https://joyofdata.shinyapps.io/hclust-shiny/).
+* This is a nice animated explanation of [mean shift clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/).
+* The [K-modes algorithm](http://www.cs.ust.hk/~qyang/Teaching/537/Papers/huang98extensions.pdf) can be used for clustering datasets of categorical features without converting them to numerical values. Here is a [Python implementation](https://github.com/nicodv/kmodes).
+* Here are some fun examples of clustering: [A Statistical Analysis of the Work of Bob Ross](http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/) (with [data and Python code](https://github.com/fivethirtyeight/data/tree/master/bob-ross)), [How a Math Genius Hacked OkCupid to Find True Love](http://www.wired.com/2014/01/how-to-hack-okcupid/all/), and [characteristics of your zip code](http://www.esri.com/landing-pages/tapestry/).
