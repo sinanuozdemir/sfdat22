@@ -288,6 +288,7 @@ Web Scraping Resources:
 * Clustering ([slides](slides/11_clustering.pdf), [notebook](notebooks/11_clustering.ipynb))
     * K-means: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [visualization 1](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/), [visualization 2](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
     * DBSCAN: [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), [visualization](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+    * LAB -- Pandora [notebook](labs/11_lab_pandora.ipynb)
 
 **Homework:**
 
@@ -302,7 +303,7 @@ Web Scraping Resources:
 * Install two new packages:  ```textblob``` and ```lda```.
    * Open a terminal or command prompt.
    * Type ```pip install textblob``` and ```pip install lda```.
-   * 
+ 
 
 
 
