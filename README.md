@@ -317,3 +317,29 @@ Web Scraping Resources:
 * This is a nice animated explanation of [mean shift clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/).
 * The [K-modes algorithm](http://www.cs.ust.hk/~qyang/Teaching/537/Papers/huang98extensions.pdf) can be used for clustering datasets of categorical features without converting them to numerical values. Here is a [Python implementation](https://github.com/nicodv/kmodes).
 * Here are some fun examples of clustering: [A Statistical Analysis of the Work of Bob Ross](http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/) (with [data and Python code](https://github.com/fivethirtyeight/data/tree/master/bob-ross)), [How a Math Genius Hacked OkCupid to Find True Love](http://www.wired.com/2014/01/how-to-hack-okcupid/all/), and [characteristics of your zip code](http://www.esri.com/landing-pages/tapestry/).
+
+--
+
+##Class 12: Natural Language Processing
+
+**Agenda**
+
+* Naural Language Processing is the science of turning words and sentences into data and numbers. Today we will be exploring techniques into this field
+* [code](notebooks/12_nlp.ipynb) showing topics in NLP
+* [lab](labs/12_lab_nlp.ipynb) analyzing tweets about the stock market
+
+
+**Homework:**
+
+* HW2 is assigned in the hw folder
+* Read Paul Graham's [A Plan for Spam](http://www.paulgraham.com/spam.html) and be prepared to **discuss it in class on Wednesday**. Here are some questions to think about while you read:
+    * Should a spam filter optimize for sensitivity or specificity, in Paul's opinion?
+    * Before he tried the "statistical approach" to spam filtering, what was his approach?
+    * How exactly does his statistical filtering system work?
+    * What did Paul say were some of the benefits of the statistical approach?
+    * How good was his prediction of the "spam of the future"?
+* Below are the foundational topics upon which Wednesday's class will depend. Please review these materials before class:
+    * **Confusion matrix:** [a good guide](http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) roughly mirrors the lecture from class 10.
+    * **Sensitivity and specificity:** Rahul Patwari has an [excellent video](https://www.youtube.com/watch?v=U4_3fditnWg&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (9 minutes).
+    * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
+* You should definitely be working on your project! First draft is due Monday!!
