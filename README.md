@@ -29,11 +29,10 @@ Tuesday | Thursday | Project Milestone | HW
 4/19: Linear Regression | 4/21: Logistic Regression
 4/26: Time Series Data | 4/28: Review (SF Crime Data Lab) || 
 5/3: Clustering | 5/5: Natural Language Processing|| HW 2 Assigned (Th)
-5/10: Naive Bayes | 5/12: Decision Trees | |HW 2 Due (Th)
-5/17: Ensembling Techniques  | 5/19: Dimension Reduction<br>| One Pager Due (Th) | 
-5/24 Support Vector Machines | 5/26: Web Development with Flask | Peer Review Due (Th) | 
-5/31/16: Recommendation Engines | 6/2: Neural Networks
-6/7: Projects | 6/9: Projects | Git Er Done | Git Er Done
+5/10: Naive Bayes | 5/12: Decision Trees / Ensembling Techniques | |HW 2 Due (Th)
+5/17: Dimension Reduction  | 5/19: Web Development with Flask | One Pager Due (Th) | 
+5/24: Recommendation Engines (**peer reviews due!!!!!!**) | 5/26: Support Vector Machines / Neural Networks | Peer Review Due (Tues)
+5/31: Projects | 6/2: Projects | Git Er Done | Git Er Done
 
 
 ### Installation and Setup
@@ -357,6 +356,7 @@ Today we are going over advanced metrics for classification models and learning 
 	* 	Slides [here](slides/13_naive_bayes_roc_auc.pdf)
 	* 	Code [here](notebooks/13_naive_bayes_roc_auc.ipynb)
 	* In the code file above we will create our own spam classifier!
+* Work on Homework / previous labs
 
 
 **Resources**
