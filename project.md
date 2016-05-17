@@ -56,12 +56,13 @@ Example:
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
 
-### May 12 (Mandatory): First Draft Due
+### May 19 (Mandatory): One Pager Due
 
 Zip up all files relevant to your project, and slack a link to Mars. Your peers and instructors will provide feedback, according to [these guidelines]().
 
 At a minimum, you should include:
-* Narrative of what you have done so far and what you are still planning to do, ideally in a format similar to the format of your final project paper
+
+* Narrative of what you have done so far and what you are still planning to do
 * Code, with lots of comments
 
 Ideally, you would also include:
@@ -78,11 +79,11 @@ Tips for success:
 * If your reviewers can actually run your code on the provided data, they will be able to give you more useful feedback on your code. (It can be very hard to make useful code suggestions on code that can't be run!)
 
 
-### June 2 (Optional): Second Draft Due 
+### May 26 (Optional): Second Draft Due 
 
 If you would like additional feedback on your project, submit a revised version of your project. Your instructors will provide feedback. (There is no peer review for the second draft.)
 
 
-### June 7th and 9th: Presentation
+### May 31st and June 2nd: Presentation
 
 Deliver your project presentation in class, and submit all required deliverables (paper, slides, code, data, and data dictionary).
