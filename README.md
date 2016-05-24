@@ -398,6 +398,7 @@ Today we are going over advanced metrics for classification models and learning 
 --
 
 ### Class 15: Dimension Reduction
+
 * Finish up Ensembling ([notebook](notebooks/14_ensembling.ipynb))
     * [Major League Baseball player data](data/hitters.csv) from 1986-87
     * [Data dictionary](https://cran.r-project.org/web/packages/ISLR/ISLR.pdf) (page 7)
@@ -407,9 +408,21 @@ Today we are going over advanced metrics for classification models and learning 
     * Code: [PCA](notebooks/15_pca.ipynb)
 
 
-*Resources*
+**Resources**
 
 * Some hardcore math in python [here](code/15_pca_svd_class.py)
 * PCA using the iris data set [here](http://scikit-learn.org/0.11/auto_examples/decomposition/plot_pca_iris.html) and with 2 components [here](http://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html)
 * PCA step by step [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 * Check out [Pyxley](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
+
+--
+
+### Class 17: Dimension Reduction
+
+**Agenda**
+
+* Slides [here](slides/17_web_development.pdf)
+
+**Homework**
+
+* Work on your project!!
