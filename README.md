@@ -417,12 +417,22 @@ Today we are going over advanced metrics for classification models and learning 
 
 --
 
-### Class 17: Dimension Reduction
+### Class 17: Web Development with Flask and Heroku
+
+**Objectives**
+
+* To launch your own machine learning powered website
 
 **Agenda**
 
+* Sign up for Project times NEXT WEEK
 * Slides [here](slides/17_web_development.pdf)
 
 **Homework**
 
+* Work on your project!!
+* Work on your project!!
+* Work on your project!!
+* Work on your project!!
+* please
 * Work on your project!!
