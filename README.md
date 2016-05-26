@@ -436,3 +436,37 @@ Today we are going over advanced metrics for classification models and learning 
 * Work on your project!!
 * please
 * Work on your project!!
+
+--
+
+### Class 18: Neural Networks and SVM
+
+**Agenda**
+
+* Sign up for a project slot [here](https://docs.google.com/spreadsheets/d/1Nc9ettfPvVNV23nAqLMdaL37WiQ6kIFKXGlHy5VgD2I/edit#gid=0)
+* slides [here](slides/18_nn_svm.pdf)
+* SVM notebook [here](notebooks/18_svm.ipynb)
+* Neural Network notebook [here](notebooks/18_nn.ipynb)
+* We will need a new package [Pybrain](http://pybrain.org/)!!   `sudo pip install pybrain`
+
+
+### Office Hours this weekend are Saturday from 9am-5pm and Sunday from 12pm-2pm
+#### Project questions ONLY 
+
+
+
+**Resources**
+
+
+* An intro to Neural Networks [here](http://natureofcode.com/book/chapter-10-neural-networks/)
+* An intro to [SVM](http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf)
+* SVM Margins Example [here](http://scikit-learn.org/stable/auto_examples/svm/plot_svm_margin.html)
+* SVM digits was adapted from [here](http://pythonprogramming.net/support-vector-machine-svm-example-tutorial-scikit-learn-python/)
+* [Google Deep Dream: why does it always see dogs?!](http://www.fastcodesign.com/3048941/why-googles-deep-dream-ai-hallucinates-in-dog-faces)
+* [Deep Dream Generator](http://deepdreamgenerator.com/)
+* Most used non-sklearn ANN [PyBrain](http://pybrain.org/)
+* Step by Step back propagation [here](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+* Code adapted from [here](http://iamtrask.github.io/2015/07/12/basic-python-network/) and [here](http://corpocrat.com/2014/10/10/tutorial-pybrain-neural-network-for-classifying-olivetti-faces/)
+* Calculus adapted from [here](http://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x)
+* Sklearn will come out with their own supervised neural network soon! [here](http://scikit-learn.org/dev/modules/neural_networks_supervised.html)
+
