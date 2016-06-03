@@ -470,3 +470,30 @@ Today we are going over advanced metrics for classification models and learning 
 * Calculus adapted from [here](http://math.stackexchange.com/questions/78575/derivative-of-sigmoid-function-sigma-x-frac11e-x)
 * Sklearn will come out with their own supervised neural network soon! [here](http://scikit-learn.org/dev/modules/neural_networks_supervised.html)
 
+
+### Next Steps
+
+The hardest thing to do now is to stay sharp! I have a few recommendations on next steps in order to make sure that you don't forget what we learned here! ![](https://s-media-cache-ak0.pinimg.com/originals/88/74/9d/88749d9e7fb7ef330b5e0b4ceb781cfd.jpg)
+
+* Read [my book] (https://www.amazon.com/Principles-Data-Science-Sinan-Ozdemir-ebook/dp/B01A8T8YNC) ;)
+* Always stay up to date on [Kaggle](http://kaggle.com)
+	* Try working with some other people in this class!
+	* Our Slack channel will stay around if you still want to post cool blogs, videos, etc!
+* Try implementing some of the models we learned in class on your own!
+	* Great book [Data Science From Scratch] (http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf) with [code](https://github.com/joelgrus/data-science-from-scratch)
+
+	*  Text classification with Naive Bayes from Scratch [here] (https://web.stanford.edu/class/cs124/lec/naivebayes.pdf)
+	*  Introduction to Statistical Learning [book](http://www-bcf.usc.edu/~gareth/ISL/) Videos [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+	*  PCA by hand [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
+* Take a look at the **Resources** for each class to get a deeper understanding of what we've learned. Trust me there are a lot
+* Follow data scientists on Twitter.  This will help you stay up on the latest news/models/applications/tools.
+* Read blogs to keep learning.  I really like [District Data Labs](http://districtdatalabs.silvrback.com/) and [Data Elixer](http://dataelixir.com/).
+* There are some active Python Data meetups in the area:
+	* [SF Python](http://www.meetup.com/sfpython/)
+	* [SF Data Science](http://www.meetup.com/SF-Data-Science/)
+	* [SF Data Mining](http://www.meetup.com/Data-Mining/)
+	* Request sponsorship for study groups through [GA](https://gaalumni.typeform.com/to/dGyuWb)
+	* [General GA Alumni Perks](http://generalassemb.ly/alumni)
+
+	
+Thank you all for such a wonderful time and I truly hope to stay in touch.
